@@ -1,12 +1,47 @@
 #EXTM3U
 
 # Movies
+#EXTGRP:Movies
+
+# Wicked
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg" group-title="Movies", Wicked (2024)
 https://abra--054f6e62.api.brilliant-bittern.buzz/bf23f71cfaa948f13fa21a5b0494a72134d5e78a/Wicked%20%282024%29%20%5B720p%5D%20%5BWEBRip%5D%20%5BYTS.MX%5D/Wicked.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4~vod/hls/9f2953ce6a096fdfd3cdd16e6598b79b7f652e95/index.m3u8?api-key=8acbcf1e-732c-4574-a3bf-27e6a85b86f1&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzczOTYzNDUsInJhdGUiOiI3TSIsInJvbGUiOiJmcmVlIiwic2Vzc2lvbklEIjoiTVRjek5qYzVNVFV4TW54T2QzZEJUa1Y0VlU1R1drWk5NVUpTVlRBMVExRnJTbFpVZW1SVlZsUlNVRlZFWkZsVU1EVmFWMVY0U0ZZeFZsUlhSbHBaVVZWYVExVkZVVEpVUm1zd1ZVVm9TRTFyTlZWVlZrVTlmRjZCREMxZDJ4bkEwMzlxZTZUdjZNa0dtLVdhMFFrTWo3aDhrRlRKYjladCIsImRvbWFpbiI6IndlYnRvci5pbyIsImFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwOS4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVtb3RlQWRkcmVzcyI6IjE1NS45My4xODEuNDgifQ.LsusKyLkdi-dckvsoj4NFiBg1y6MlVGt_gyH_9987lE
 
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg" group-title="Movies", Sonic 3
+# Sonic the Hedgehog 3
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg" group-title="Movies", Sonic the Hedgehog 3
 https://tralvoxmoon.xyz/file2/jgbrqyVkAa56Ai3pB9M4vHpN0vgtUmH8SALuFZ0~yXsHThFNMk1AHpH73+6ORTCoC5SY4pYbyYqUl9TCmCFzK9RIgjwt~CrDPBvMdDBzaAKrt+mSBRmXx6hwASIUxn3QzuJ1GG7ef5G~XJo2PrWru7RIvUzlhJAbm5MrxfCB3jA=/MTA4MA==/aW5kZXgubTN1OA==.m3u8
 
+# Batman v Superman: Dawn of Justice
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w188_and_h282_bestv2/5UsK3grJvtQrtzEgqNlDljJW96w.jpg" group-title="Movies", Batman v Superman: Dawn of Justice
+https://zeltroncloud66.pro/file2/hkesKMPPm470U7F326rzZU+ZNJVLn9X02tciH~QYGdzgbInG1fgB5phcQLSoYCb+9hac6QLfHMVX9ujKxXrAwewzTiYe~lE+zCszrXIRYvmuOX+cKu+UCs2W~FBpxTLO42dJ4oTozvJY6OmOaks3W97CI3HndjsEp2dAq~G~MRE=/MTA4MA==/aW5kZXgubTN1OA==.m3u8
+
+# Mufasa: The Lion King (2024)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg" group-title="Movies", Mufasa: The Lion King (2024)
+https://droxonwave.site/file2/uaUVu7pRRcaeRyQEuR41mOsIg6gT34QnZfmLOhBprXEgtl9Sjv8XZ6U00HysXqKUPRrSyd14X1nnUq+qXV8lXIkK9vhIMktz0jb1HUFbYfhqJX1D78GxobPEQxa2ACx8vil~qpBQ7YxDoPz5xDuPwQ==/NzIw/aW5kZXgubTN1OA==.m3u8
+
+# Moana 2 (2024)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg" group-title="Movies", Moana 2 (2024)
+https://tralvoxmoon.xyz/file2/C6~pzJ0xDVm10~8pp3BdJa4efR2xSrcCZy4MRTNr665HRl~uYU+i503d+nqFNgY3H8XCN2RUMCFkeVyx1wVyVKqDjDCeK+ynpUyJ14MGayC99MZLcXTIaF49WQzSGtiTXjY7Y+BSxTSiJvy4n6EUfF+ahS1tP~twMmhuKrdkj1Y=/MTA4MA==/aW5kZXgubTN1OA==.m3u8
+
+# Number 24 (2024)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/rzsmKSFEsEWBLbJ968abffnfYZ7.jpg" group-title="Movies", Number 24
+https://zeltroncloud66.pro/file2/ljtxIKD3oHtVBcPjJuOo5QKnWPf69L6ioRHEGtC6~dGQV9yfqrI4uWHn3TrwGd06P0hD3~1XSopGuk0HV5V+v~dL0IGUGdVhHMMn6R60Yx7jnUY7QIHwV2wKtBwu5MG~uR6kNYge+hvPi+mi1KpyppAfTUSd9fXCWOL4OjfogsU=/MTA4MA==/aW5kZXgubTN1OA==.m3u8
+
+# We Live in Time (2024)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/ssFS25CiYQvRJqErqaEyHuVgyH7.jpg" group-title="Movies", We Live in Time
+https://zeltroncloud66.pro/file2/bxHWw2lGtbMmWV5y4aFokhruqLzTr5ZjFk29tFxzhwr0Yz9gUTS1lbVROdebLCAM33iRL29WscPHmvMpaL6eqFY2QEyFCNrGvSgV8FCKJcVNJu3ZroMLAGXX+C6iQypB1FzcOwKJDgovZnpQ0QDGbzH7RZcnG9KQKjyqcWIf8o8=/MTA4MA==/aW5kZXgubTN1OA==.m3u8
+
+# Better Man (2024)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/fbGCmMp0HlYnAPv28GOENPShezM.jpg" group-title="Movies", Better Man
+https://tralvoxmoon.xyz/file2/HKQTrZHpyWeZ+f8NyLZdAyTCk6~uBebVzklLX7UglE+HMyZwVY+K8QNy+288vDDAHgQwsDHbse93fCVigf+xYBDfLqJaGWsx~l~aQq0cJ0IlP5M3ua7PGW0scldrekDvVnAa6nzWpuTA6SXJgjKSPP5A~gO9r92BHvfeN9n+mUk=/NzIw/aW5kZXgubTN1OA==.m3u8
+
+# Gladiator II (2024)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg" group-title="Movies", Gladiator II
+https://tralvoxmoon.xyz/file2/IqyBABuODtr+42DiZbxhX9wA0wnma2EEBGJSI+X~quLKU2LOPBhUtorSMq7S5uzuSXGiJ0qcRZiAsqyvCReODimXFIF3Y7IY8J8luf7u93BunzsRfAc72y51W4dW5~8rokdvbl9QYTdVknhATP+FDp7svwu9+RjZvZEkcZTNJ0U=/MTA4MA==/aW5kZXgubTN1OA==.m3u8
+
+# Alien: Romulus (2024)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/2uSWRTtCG336nuBiG8jOTEUKSy8.jpg" group-title="Movies", Alien: Romulus
+https://droxonwave.site/file2/vs3UPaw8kNO02~ea489aVbMgCFocCAheHCoSoafvqs+rcmOX6DNu+gXgm7ZtUKsXA6A68w6Dl~DygkrEAI8cHxNFgMTCriH6VbuEHWdbmSDXMja~xkiZPniG0KmqPPKDXJc~LVMXaumzNpJcofczJtGyqR5esreAORoXBtXLESE=/MTA4MA==/aW5kZXgubTN1OA==.m3u8
 
 
 # TV Shows
