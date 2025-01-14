@@ -49,3 +49,10 @@ http://92.114.85.81:8000/play/a01a/index.m3u8
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
 #EXTINF:-1 tvg-id="BBCThree.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/BBC_Three_2021.svg/640px-BBC_Three_2021.svg.png" group-title="UK TV", BBC Three
 http://92.114.85.81:8000/play/a00d/index.m3u8
+
+
+
+# Sports
+
+#EXTINF:-1 tvg-id="SkySport1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREZEgnZucX4Vq6PfweyQVJDpHE-9183ZdCIQ&s" group-title="Sports", Sky Sports 1 NZ
+https://director.shoeshopping.top/v1/director/VE1NTc5Njk2YTM3OWM4LTZlN2ItY2ZiNC0zNDJjLWMyN2NmNWE4/master.m3u8
