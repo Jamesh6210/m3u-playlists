@@ -12,10 +12,10 @@ http://92.114.85.81:8000/play/a01g/index.m3u8
 
 # Sports
 
-#EXTINF:-1 tvg-id="PrimerLeague.uk" tvg-logo="https://e7.pngegg.com/pngimages/32/44/png-clipart-premier-league-logo-2016u201317-premier-league-1992u201393-fa-premier-league-2011u201312-premier-league-2017u201318-premier-league-logo-premier-league-background-purple-violet.png" group-title="Sports", Primer League 1
+#EXTINF:-1 tvg-id="PrimerLeague.uk" tvg-logo="https://i.pinimg.com/736x/77/53/56/7753560f50e2a15de4d79c0b4d296b51.jpg" group-title="Sports", Primer League 1
 https://director.shoeshopping.top/v1/director/VE1MjNjMDhmNjVmZmE3LWFkOWEtMmRkNC0yOTBjLWRlMGJiZjEy/master.m3u8
 
-#EXTINF:-1 tvg-id="PrimerLeague.uk" tvg-logo="https://e7.pngegg.com/pngimages/32/44/png-clipart-premier-league-logo-2016u201317-premier-league-1992u201393-fa-premier-league-2011u201312-premier-league-2017u201318-premier-league-logo-premier-league-background-purple-violet.png" group-title="Sports", Primer League 2
+#EXTINF:-1 tvg-id="PrimerLeague.uk" tvg-logo="https://i.pinimg.com/736x/77/53/56/7753560f50e2a15de4d79c0b4d296b51.jpg" group-title="Sports", Primer League 2
 https://director.shoeshopping.top/v1/director/VE1NTc5Njk2YTM3OWM4LTZlN2ItY2ZiNC0zNDJjLWMyN2NmNWE4/master.m3u8
 
 #EXTINF:-1 tvg-id="ChampionsLeague.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/800px-UEFA_Champions_League.svg.png" group-title="Sports", Champions League 1
