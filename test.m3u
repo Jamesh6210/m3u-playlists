@@ -1,3 +1,3 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/640px-BBC_One_logo_2021.svg.png" group-title="UK Freeview",BBC One
-https://director.shoeshopping.top/v1/director/VE1NTc5Njk2YTM3OWM4LTZlN2ItY2ZiNC0zNDJjLWMyN2NmNWE4/master.m3u8
+#EXTM3U url-tvg="https://github.com/dtankdempse/daddylive-m3u/raw/refs/heads/main/epg.xml"
+#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="Film4.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/film-4-uk.png" tvg-name="Film4",Film4
+https://xyzdddd.mizhls.ru/lb/premium688/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
