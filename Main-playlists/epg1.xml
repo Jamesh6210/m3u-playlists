@@ -1,42 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="MyEPG" generator-info-url="http://myepgsource.com">
-  <channel id="A.and.E.US.-.Eastern.Feed.us">
-    <display-name>A&E</display-name>
-    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" />
-  </channel>
-  <channel id="ABC.(WFAA).Dallas,.TX.us">
-    <display-name>ABC (WFAA)</display-name>
-    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-8-wfaa-us.png" />
-  </channel>
-  <channel id="ABC.(WABC).New.York,.NY.us">
-    <display-name>ABCNY</display-name>
-    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" />
-  </channel>
-  <channel id="ACC.Network.us">
-    <display-name>ACC Network</display-name>
-    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/acc-network-us.png" />
-  </channel>
+<tv>
 
+<channel site="tvireland.ie" lang="en" xmltv_id="BBCFour.uk" site_id="742/bbc-four">BBC Four</channel>
+<channel site="tvireland.ie" lang="en" xmltv_id="BBCNews.uk" site_id="85/bbc-news">BBC News</channel>
+<channel site="tvireland.ie" lang="en" xmltv_id="BBCOne.uk" site_id="4/bbc-one">BBC One</channel>
+<channel site="tvireland.ie" lang="en" xmltv_id="BBCThree.uk" site_id="935/bbc-three">BBC Three</channel>
+<channel site="tvireland.ie" lang="en" xmltv_id="BBCTwo.uk" site_id="52/bbc-two-england">BBC Two England</channel>
 
-<programme start="20250206060000 +0000" stop="20250206070000 +0000" channel="A.and.E.US.-.Eastern.Feed.us">
-  <title>Live PD</title>
-  <desc>Follow police officers in real time across the U.S.</desc>
-</programme>
-
-<programme start="20250206070000 +0000" stop="20250206080000 +0000" channel="ABC.(WFAA).Dallas,.TX.us">
-  <title>Good Morning America</title>
-  <desc>Morning news, celebrity interviews, and more.</desc>
-</programme>
-
-<programme start="20250206080000 +0000" stop="20250206090000 +0000" channel="ABC.(WABC).New.York,.NY.us">
-  <title>ABC 7 Morning News</title>
-  <desc>The latest news from ABCNY.</desc>
-</programme>
-
-<programme start="20250206120000 +0000" stop="20250206140000 +0000" channel="ACC.Network.us">
-  <title>College Basketball: Duke vs. UNC</title>
-  <desc>Live NCAA basketball action.</desc>
-</programme>
-
+ 
 
 </tv>
