@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
+<!-- UK -->
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="BBCFourHD.uk" site_id="2244">BBC FOUR HD</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="BBCNewsHD.uk" site_id="1756">BBC NEWS HD</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="BBCOneLondonHD.uk" site_id="2192">BBC ONE London HD</channel>
@@ -37,6 +38,71 @@ hits -->
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="SkyHistoryHD.uk" site_id="1974">Sky HISTORY HD</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="SkyShowcaseHD.uk" site_id="1548">Sky Showcase HD</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="SkyWitnessHD.uk" site_id="1406">Sky Witness HD</channel>
+
+<!-- Sports -->
+  <channel site="tvguide.com" lang="en" xmltv_id="ACCNetwork.us" site_id="9200017734">ACC Network</channel>
+
+
+
+  <channel site="tvguide.com" lang="en" xmltv_id="BigTenNetwork.us" site_id="9200004533">Big Ten Network</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="CBSSportsNetworkUSA.us" site_id="9233013235">CBS Sports Network</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="ESPN.us" site_id="9200006937">ESPN</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="ESPN2.us" site_id="9200012351">ESPN2</channel>
+
+  <channel site="tvguide.com" lang="en" xmltv_id="ESPNews.us" site_id="9200006950">ESPN News</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="ESPNU.us" site_id="9233011350">ESPNU</channel>
+  <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="Eurosport1.uk" site_id="2084">Eurosport 1HD</channel>
+  <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="Eurosport2.uk" site_id="2085">Eurosport 2HD</channel>
+
+
+
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports1.us" site_id="9233008440">FOX Sports 1</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports2.us" site_id="9200009884">FOX Sports 2</channel>
+
+
+
+
+
+
+
+
+  <channel site="tvguide.com" lang="en" xmltv_id="GolfChannel.us" site_id="9233005443">Golf</channel>
+  <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="LFCTV.uk" site_id="1816">Liverpool FC TV</channel>
+
+  <channel site="tvguide.com" lang="en" xmltv_id="MLBNetwork.us" site_id="9200009223">MLB Network</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="NFLNetwork.us" site_id="9200004330">NFL Network</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="NHLNetwork.us" site_id="9233009455">NHL Network</channel>
+  <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="RacingTV.uk" site_id="330">Racing TV</channel>
+
+
+  <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="SkySportsCricketHD.uk" site_id="320">Sky Sports Cricket</channel>
+  <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="SkySportsFootballHD.uk" site_id="1923">Sky Sports Football</channel>
+  <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="SkySportsGolfHD.uk" site_id="322">Sky Sports Golf</channel>
+  <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="SkySportsMainEventHD.uk" site_id="319">Sky Sports Main Event</channel>
+  <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="SkySportsNewsHD.uk" site_id="1802">Sky Sports News HD</channel>
+  <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="SkySportsPremierLeagueHD.uk" site_id="1787">Sky Sports PL HD</channel>
+  <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="SkySportsRacingHD.uk" site_id="329">Sky Sports Racing HD</channel>
+  <channel site="sky.co.nz" lang="en" xmltv_id="SkySport1.nz" site_id="51">SKY Sport 1</channel>
+  <channel site="sky.co.nz" lang="en" xmltv_id="SkySport2.nz" site_id="52">SKY Sport 2</channel>
+  <channel site="sky.co.nz" lang="en" xmltv_id="SkySport3.nz" site_id="53">SKY Sport 3</channel>
+  <channel site="sky.co.nz" lang="en" xmltv_id="SkySport4.nz" site_id="54">SKY Sport 4</channel>
+  <channel site="sky.co.nz" lang="en" xmltv_id="SkySport5.nz" site_id="55">SKY Sport 5</channel>
+  <channel site="sky.co.nz" lang="en" xmltv_id="SkySport6.nz" site_id="56">SKY Sport 6</channel>
+  <channel site="sky.co.nz" lang="en" xmltv_id="SkySport7.nz" site_id="57">SKY Sport 7</channel>
+  <channel site="sky.co.nz" lang="en" xmltv_id="SkySport8.nz" site_id="58">SKY Sport 8</channel>
+  <channel site="sky.co.nz" lang="en" xmltv_id="SkySport9.nz" site_id="59">SKY Sport 9</channel>
+  <channel site="sky.co.nz" lang="en" xmltv_id="SkySportSelect.nz" site_id="50">SKY Sport Select</channel>
+
+  <channel site="tvguide.com" lang="en" xmltv_id="TennisChannel.us" site_id="9200017917">The Tennis</channel>
+
+
+  <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="TNTSports1HD.uk" site_id="1744">TNT Sports 1 HD</channel>
+  <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="TNTSports2HD.uk" site_id="1745">TNT Sports 2 HD</channel>
+  <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="TNTSports3HD.uk" site_id="1837">TNT Sports 3 HD</channel>
+  <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="TNTSports4HD.uk" site_id="1405">TNT Sports 4 HD</channel>
+
+  <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="ViaplaySports1.uk" site_id="1761">Premier Sports 1</channel>
+  <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="ViaplaySports2.uk" site_id="1961">Premier Sports 2</channel>
 
 
 
