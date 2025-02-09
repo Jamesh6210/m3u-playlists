@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20250209"> test
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20250209">
 <channel id="ACCNetwork.us"><display-name>ACC Network</display-name><icon src="https://i.imgur.com/TpCkbkT.png"/><url>https://tvguide.com</url></channel>
 <channel id="BBCFourHD.uk"><display-name>BBC FOUR HD</display-name><icon src="https://i.imgur.com/8VDs6zM.png"/><url>https://virgintvgo.virginmedia.com</url></channel>
 <channel id="BBCNewsHD.uk"><display-name>BBC NEWS HD</display-name><icon src="https://i.imgur.com/gXX6Qed.png"/><url>https://virgintvgo.virginmedia.com</url></channel>
