@@ -429,36 +429,6 @@ https://xyzdddd.mizhls.ru/lb/premium650/index.m3u8|Referer=https://newembedplay.
 https://xyzdddd.mizhls.ru/lb/premium131/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="SPORTS " tvg-id="TennisChannel.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tennis-channel-us.png" tvg-name="Tennis Channel",Tennis Channel
 https://xyzdddd.mizhls.ru/lb/premium40/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
-#EXTINF:-1 group-title="SPORTS " tvg-id="Tennis.Plus.1.tennis" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" tvg-name="Tennis+ 1",Tennis+ 1
-https://xyzdddd.mizhls.ru/lb/premium700/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
-#EXTINF:-1 group-title="SPORTS " tvg-id="(no tvg-id)" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" tvg-name="Tennis+ 10",Tennis+ 10
-https://xyzdddd.mizhls.ru/lb/premium709/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
-#EXTINF:-1 group-title="SPORTS " tvg-id="(no tvg-id)" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" tvg-name="Tennis+ 11",Tennis+ 11
-https://xyzdddd.mizhls.ru/lb/premium710/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
-#EXTINF:-1 group-title="SPORTS " tvg-id="(no tvg-id)" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" tvg-name="Tennis+ 12",Tennis+ 12
-https://xyzdddd.mizhls.ru/lb/premium711/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
-#EXTINF:-1 group-title="SPORTS " tvg-id="(no tvg-id)" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" tvg-name="Tennis+ 13",Tennis+ 13
-https://xyzdddd.mizhls.ru/lb/premium712/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
-#EXTINF:-1 group-title="SPORTS " tvg-id="(no tvg-id)" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" tvg-name="Tennis+ 14",Tennis+ 14
-https://xyzdddd.mizhls.ru/lb/premium713/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
-#EXTINF:-1 group-title="SPORTS " tvg-id="(no tvg-id)" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" tvg-name="Tennis+ 15",Tennis+ 15
-https://xyzdddd.mizhls.ru/lb/premium714/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
-#EXTINF:-1 group-title="SPORTS " tvg-id="Tennis.Plus.2.tennis" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" tvg-name="Tennis+ 2",Tennis+ 2
-https://xyzdddd.mizhls.ru/lb/premium701/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
-#EXTINF:-1 group-title="SPORTS " tvg-id="Tennis.Plus.3.tennis" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" tvg-name="Tennis+ 3",Tennis+ 3
-https://xyzdddd.mizhls.ru/lb/premium702/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
-#EXTINF:-1 group-title="SPORTS " tvg-id="Tennis.Plus.4.tennis" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" tvg-name="Tennis+ 4",Tennis+ 4
-https://xyzdddd.mizhls.ru/lb/premium703/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
-#EXTINF:-1 group-title="SPORTS " tvg-id="Tennis.Plus.5.tennis" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" tvg-name="Tennis+ 5",Tennis+ 5
-https://xyzdddd.mizhls.ru/lb/premium704/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
-#EXTINF:-1 group-title="SPORTS " tvg-id="Tennis.Plus.6.tennis" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" tvg-name="Tennis+ 6",Tennis+ 6
-https://xyzdddd.mizhls.ru/lb/premium705/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
-#EXTINF:-1 group-title="SPORTS " tvg-id="Tennis.Plus.7.tennis" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" tvg-name="Tennis+ 7",Tennis+ 7
-https://xyzdddd.mizhls.ru/lb/premium706/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
-#EXTINF:-1 group-title="SPORTS " tvg-id="Tennis.Plus.8.tennis" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" tvg-name="Tennis+ 8",Tennis+ 8
-https://xyzdddd.mizhls.ru/lb/premium707/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
-#EXTINF:-1 group-title="SPORTS " tvg-id="Tennis.Plus.9.tennis" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" tvg-name="Tennis+ 9",Tennis+ 9
-https://xyzdddd.mizhls.ru/lb/premium708/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="USA " tvg-id="Food.Network.USA.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" tvg-name="The Food Network",The Food Network
 https://xyzdddd.mizhls.ru/lb/premium384/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="USA " tvg-id="Hallmark.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png" tvg-name="The Hallmark Channel",The Hallmark Channel
