@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/Jamesh6210/m3u-playlists/refs/heads/main/epg/guide.xml"
+tvg#EXTM3U url-tvg="https://raw.githubusercontent.com/Jamesh6210/m3u-playlists/refs/heads/main/epg/guide.xml"
 #EXTINF:-1 group-title="USA " tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" tvg-name="A&E",A&E
 https://xyzdddd.mizhls.ru/lb/premium302/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="USA " tvg-id="ABC.(WFAA).Dallas,.TX.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-8-wfaa-us.png" tvg-name="ABC (WFAA)",ABC (WFAA)
@@ -18,15 +18,15 @@ https://xyzdddd.mizhls.ru/lb/premium742/index.m3u8|Referer=https://newembedplay.
 #EXTINF:-1 group-title="USA " tvg-id="BBC.America.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bbc-america-us.png" tvg-name="BBC America (BBCA)",BBC America (BBCA)
 https://xyzdddd.mizhls.ru/lb/premium305/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="UK " tvg-id="BBCFourHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-four-uk.png" tvg-name="BBC Four",BBC Four
-https://xyzdddd.mizhls.ru/lb/premium359/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium359/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="UK " tvg-id="BBCNewsHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" tvg-name="BBC News",BBC News Channel HD
-https://xyzdddd.mizhls.ru/lb/premium349/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium349/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="UK " tvg-id="BBCOneLondonHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" tvg-name="BBC One",BBC One
-https://xyzdddd.mizhls.ru/lb/premium356/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium356/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="UK " tvg-id="BBCThreeHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-three-uk.png" tvg-name="BBC Three",BBC Three
-https://xyzdddd.mizhls.ru/lb/premium358/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium358/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="UK " tvg-id="BBCTwoHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png" tvg-name="BBC Two",BBC Two
-https://xyzdddd.mizhls.ru/lb/premium357/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium357/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="USA " tvg-id="BET.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png" tvg-name="BET",BET
 https://xyzdddd.mizhls.ru/lb/premium306/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="SPORTS " tvg-id="BigTenNetwork.us" tvg-logo="https://btn.com/wp-content/uploads/2022/01/share-image.png" tvg-name="BIG TEN Network (BTN)",BIG TEN Network (BTN)
@@ -48,9 +48,9 @@ https://zekonew.iosplayer.ru/zeko/premium308/mono.m3u8|Referer=https://newembedp
 #EXTINF:-1 group-title="USA " tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cbs-2-wcbs-us.png" tvg-name="CBSNY",CBSNY
 https://xyzdddd.mizhls.ru/lb/premium767/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="UK " tvg-id="Channel4HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-4-uk.png" tvg-name="Channel 4",Channel 4
-https://xyzdddd.mizhls.ru/lb/premium354/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium354/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="UK " tvg-id="Channel5HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-uk.png" tvg-name="Channel 5",Channel 5
-https://xyzdddd.mizhls.ru/lb/premium355/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium355/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="USA " tvg-id="Cinemax.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" tvg-name="Cinemax",Cinemax
 https://xyzdddd.mizhls.ru/lb/premium374/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="Canada " tvg-id="CITY.Montreal,.QC.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/city-tv-ca.png" tvg-name="Citytv",Citytv
@@ -80,7 +80,7 @@ https://xyzdddd.mizhls.ru/lb/premium838/index.m3u8|Referer=https://newembedplay.
 #EXTINF:-1 group-title="USA " tvg-id="CW.(WUCW).St..Paul,.MN.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png" tvg-name="CW (WUCW)",CW (WUCW)
 https://xyzdddd.mizhls.ru/lb/premium300/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="UK " tvg-id="DaveHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dave-uk.png" tvg-name="Dave",Dave
-https://xyzdddd.mizhls.ru/lb/premium348/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium348/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="USA " tvg-id="Destination.America.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/destination-america-us.png" tvg-name="Destination America",Destination America
 https://xyzdddd.mizhls.ru/lb/premium651/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="USA " tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" tvg-name="Discovery Channel",Discovery Channel
@@ -98,7 +98,7 @@ https://xyzdddd.mizhls.ru/lb/premium314/index.m3u8|Referer=https://newembedplay.
 #EXTINF:-1 group-title="USA " tvg-id="E!.Entertainment.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/e-entertainment-us.png" tvg-name="E! Entertainment Television",E! Entertainment Television
 https://xyzdddd.mizhls.ru/lb/premium315/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="UK " tvg-id="E4HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/E4_Logo.png" tvg-name="E4 Channel",E4 Channel
-https://xyzdddd.mizhls.ru/lb/premium363/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium363/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="SPORTS " tvg-id="ESPN.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" tvg-name="ESPN",ESPN
 https://ddh2new.iosplayer.ru/ddh2/premium44/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="SPORTS " tvg-id="ESPN2.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" tvg-name="ESPN 2",ESPN 2
@@ -116,7 +116,7 @@ https://windnew.iosplayer.ru/wind/premium42/mono.m3u8|Referer=https://newembedpl
 
 https://xyzdddd.mizhls.ru/lb/premium907/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="UK " tvg-id="Film4HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/film-4-uk.png" tvg-name="Film4",Film4
-https://xyzdddd.mizhls.ru/lb/premium688/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium688/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="USA " tvg-id="FOX.(WSVN).Miami,.FL.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" tvg-name="FOX (WSVN)",FOX (WSVN)
 https://xyzdddd.mizhls.ru/lb/premium54/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="USA " tvg-id="Fox.Business.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-business-us.png" tvg-name="Fox Business",Fox Business
@@ -150,7 +150,7 @@ https://xyzdddd.mizhls.ru/lb/premium319/index.m3u8|Referer=https://newembedplay.
 #EXTINF:-1 group-title="Canada " tvg-id="GlobalToronto(English).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/global-ca.png" tvg-name="Global",Global
 https://xyzdddd.mizhls.ru/lb/premium836/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="UK " tvg-id="GOLDHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gold-uk.png" tvg-name="Gold",Gold
-https://xyzdddd.mizhls.ru/lb/premium687/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium687/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="SPORTS " tvg-id="GolfChannel.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-golf-us.png" tvg-name="GOLF Channel",GOLF Channel
 https://ddh2new.iosplayer.ru/ddh2/premium318/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="USA " tvg-id="Great.American.Family.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/great-american-family-us.png" tvg-name="Great American Family",Great American Family
@@ -186,11 +186,11 @@ https://xyzdddd.mizhls.ru/lb/premium325/index.m3u8|Referer=https://newembedplay.
 #EXTINF:-1 group-title="UK " tvg-id="ITV1HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" tvg-name="ITV 1",ITV 1
 https://dokko1new.iosplayer.ru/dokko1/premium350/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="UK " tvg-id="ITV2HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-2-uk.png" tvg-name="ITV 2",ITV 2
-https://xyzdddd.mizhls.ru/lb/premium351/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium351/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="UK " tvg-id="ITV3HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-3-uk.png" tvg-name="ITV 3",ITV 3
-https://xyzdddd.mizhls.ru/lb/premium352/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium352/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="UK " tvg-id="ITV4HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-4-uk.png" tvg-name="ITV 4",ITV 4
-https://xyzdddd.mizhls.ru/lb/premium353/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium353/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="USA " tvg-id="Lifetime.Movies.-.East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/LMN_logo_2016.svg/1200px-LMN_logo_2016.svg.png" tvg-name="Lifetime Movies Network",Lifetime Movies Network
 https://xyzdddd.mizhls.ru/lb/premium389/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="USA " tvg-id="Lifetime.Network.US.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png" tvg-name="Lifetime Network",Lifetime Network
@@ -214,9 +214,9 @@ https://xyzdddd.mizhls.ru/lb/premium327/index.m3u8|Referer=https://newembedplay.
 #EXTINF:-1 group-title="USA " tvg-id="MTV.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-us.png" tvg-name="MTV",MTV
 https://xyzdddd.mizhls.ru/lb/premium371/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="UK " tvg-id="MTVHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mtv-uk.png" tvg-name="MTV",MTV
-https://xyzdddd.mizhls.ru/lb/premium367/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium367/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="UK " tvg-id="MUTV.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mutv-uk.png" tvg-name="MUTV",MUTV
-https://xyzdddd.mizhls.ru/lb/premium377/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium377/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="USA " tvg-id="MNT.(WWOR).New.York,.NY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/WWOR_NewJersey.svg/640px-WWOR_NewJersey.svg.png" tvg-name="MY9TV",MY9TV
 https://xyzdddd.mizhls.ru/lb/premium654/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="USA " tvg-id="National.Geographic.Wild.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nat-geo-wild-us.png" tvg-name="Nat Geo Wild",Nat Geo Wild
@@ -266,11 +266,11 @@ https://xyzdddd.mizhls.ru/lb/premium841/index.m3u8|Referer=https://newembedplay.
 #EXTINF:-1 group-title="USA " tvg-id="ReelzChannel.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/reelz-us.png" tvg-name="Reelz Channel",Reelz Channel
 https://xyzdddd.mizhls.ru/lb/premium293/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="UK " tvg-id="RTE1.ie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-one-uk.png" tvg-name="RTE 1",RTE 1
-https://xyzdddd.mizhls.ru/lb/premium364/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium364/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="UK " tvg-id="RTE2.ie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-2-uk.png" tvg-name="RTE 2",RTE 2
-https://xyzdddd.mizhls.ru/lb/premium365/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium365/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="UK " tvg-id="S4CHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/s4c-uk.png" tvg-name="S4C",S4C
-https://xyzdddd.mizhls.ru/lb/premium670/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium670/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="USA " tvg-id="Science.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/discovery-science-us.png" tvg-name="Science Channel",Science Channel
 https://xyzdddd.mizhls.ru/lb/premium294/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="USA " tvg-id="SEC.Network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sec-network-us.png" tvg-name="SEC Network",SEC Network
@@ -280,37 +280,37 @@ https://xyzdddd.mizhls.ru/lb/premium333/index.m3u8|Referer=https://newembedplay.
 #EXTINF:-1 group-title="USA " tvg-id="SHOXBET.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sho-bet-us.png?raw=true" tvg-name="SHOxBET",SHOxBET
 https://xyzdddd.mizhls.ru/lb/premium685/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="UK " tvg-id="SkyArtsHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-arts-uk.png" tvg-name="Sky Arts",Sky Arts
-https://xyzdddd.mizhls.ru/lb/premium683/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium683/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="UK " tvg-id="SkyAtlantic.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sky_Atlantic_-_Logo_2020.svg/2560px-Sky_Atlantic_-_Logo_2020.svg.png" tvg-name="Sky Atlantic",Sky Atlantic
-https://xyzdddd.mizhls.ru/lb/premium362/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium362/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="UK " tvg-id="SkyCinemaActionHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-action-uk.png" tvg-name="Sky Cinema Action",Sky Cinema Action
-https://xyzdddd.mizhls.ru/lb/premium677/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium677/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="UK " tvg-id="SkyCinemaAnimationHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-animation-uk.png" tvg-name="Sky Cinema Animation",Sky Cinema Animation
-https://xyzdddd.mizhls.ru/lb/premium675/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium675/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="UK " tvg-id="Sky.Drama.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-drama-uk.png?raw=true" tvg-name="Sky Cinema Drama",Sky Cinema Drama
-https://xyzdddd.mizhls.ru/lb/premium680/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium680/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="UK " tvg-id="SkyCinemaFamily.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-family-uk.png" tvg-name="Sky Cinema Family",Sky Cinema Family
-https://xyzdddd.mizhls.ru/lb/premium676/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium676/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="UK " tvg-id="Sky.Greats.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-greats-uk.png" tvg-name="Sky Cinema Greats",Sky Cinema Greats
-https://xyzdddd.mizhls.ru/lb/premium674/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium674/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="UK " tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-hits-uk.png" tvg-name="Sky Cinema Hits",Sky Cinema Hits
-https://xyzdddd.mizhls.ru/lb/premium673/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium673/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="UK " tvg-id="SkyCinemaPremiereHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-premiere-uk.png" tvg-name="Sky Cinema Premiere",Sky Cinema Premiere
-https://xyzdddd.mizhls.ru/lb/premium671/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium671/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="UK " tvg-id="SkyCinemaSciFiHorrorHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-sci-fi-and-horror-uk.png" tvg-name="Sky Cinema Sci-Fi Horror",Sky Cinema Sci-Fi Horror
-https://xyzdddd.mizhls.ru/lb/premium681/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium681/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="UK " tvg-id="Sky.Cinema.Select.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-select-uk.png" tvg-name="Sky Cinema Select",Sky Cinema Select
-https://xyzdddd.mizhls.ru/lb/premium672/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium672/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="UK " tvg-id="SkyCinemaThrillerHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-thriller-uk.png" tvg-name="Sky Cinema Thriller",Sky Cinema Thriller
-https://xyzdddd.mizhls.ru/lb/premium679/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium679/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="UK " tvg-id="SkyComedyHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-comedy-uk.png" tvg-name="Sky Comedy",Sky Comedy
-https://xyzdddd.mizhls.ru/lb/premium684/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium684/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="UK " tvg-id="SkyCrimeHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-crime-uk.png" tvg-name="Sky Crime",Sky Crime
-https://xyzdddd.mizhls.ru/lb/premium685/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium685/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="UK " tvg-id="SkyHistoryHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-history-uk.png" tvg-name="Sky History",Sky History
-https://xyzdddd.mizhls.ru/lb/premium686/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium686/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="UK " tvg-id="SkyShowcaseHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-showcase-uk.png" tvg-name="Sky Showcase",Sky Showcase
-https://xyzdddd.mizhls.ru/lb/premium682/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium682/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="SPORTS MISC " tvg-id="Sky.Sport.Top.Event.de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-top-event-de.png" tvg-name="Sky Sport Top Event DE",Sky Sport Top Event DE
 https://xyzdddd.mizhls.ru/lb/premium556/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="SPORTS " tvg-id="SkySp.ActionHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-action-uk.png" tvg-name="Sky Sports Action",Sky Sports Action
@@ -356,7 +356,7 @@ https://dokko1new.iosplayer.ru/dokko1/premium596/mono.m3u8|Referer=https://quest
 #EXTINF:-1 group-title="SPORTS " tvg-id="SkySportSelect.nz" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/7nDLn3jd7sFlVOsWo81cL0/ff39abec2569729c132e2c75a3e6839f/Sky_Sports_Select.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" tvg-name="Sky Sport Select NZ",Sky Sport Select NZ
 https://dokko1new.iosplayer.ru/dokko1/premium587/mono.m3u8|Referer=https://quest4play.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://quest4play.xyz
 #EXTINF:-1 group-title="UK " tvg-id="SkyWitnessHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-witness-uk.png" tvg-name="Sky Witness HD",Sky Witness HD
-https://xyzdddd.mizhls.ru/lb/premium361/index.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium361/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="SPORTS " tvg-id="Spectrum.Sportsnet.Lakers.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/spectrum-sportsnet-la-us.png" tvg-name="Spectrum Sportsnet LA",Spectrum Sportsnet LA
 https://ddh2new.iosplayer.ru/ddh2/premium764/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
 #EXTINF:-1 group-title="SPORTS " tvg-id="Sportsnet.360.ca" tvg-logo="https://w7.pngwing.com/pngs/746/852/png-transparent-sportsnet-360-cfac-calgary-flames-national-hockey-league-others-text-logo-world.png" tvg-name="Sportsnet 360",Sportsnet 360
