@@ -21,26 +21,39 @@ def get_movie_details(movie_name):
             }
     return None  # Return None if movie not found
 
-# Function to generate M3U playlist
-def generate_m3u(movie_name, m3u_link):
-    """Generates an M3U entry for a given movie"""
+# Function to insert a new movie at the top of the M3U file while keeping IMDb details
+def add_movie_to_top(movie_name, m3u_link):
+    """Adds a new movie at the top of the M3U file with full IMDb details"""
     movie_details = get_movie_details(movie_name)
 
     if movie_details:
-        m3u_content = "#EXTM3U\n"
+        new_entry = f"# {movie_details['title']} ({movie_details['year']})\n"
+        new_entry += f'#EXTINF:-1 tvg-logo="{movie_details["poster_url"]}" group-title="Movies", {movie_details["title"]} ({movie_details["year"]}) - IMDb {movie_details["rating"]}\n'
+        new_entry += f"{m3u_link}\n\n"  # Double newline for spacing
 
-        m3u_content += f'#EXTINF:-1 tvg-logo="{movie_details["poster_url"]}" group-title="Movies", {movie_details["title"]} ({movie_details["year"]}) - IMDb {movie_details["rating"]}\n'
-        m3u_content += f"{m3u_link}\n"
+        # Read existing content
+        try:
+            with open("movies.m3u", "r", encoding="utf-8") as file:
+                existing_content = file.read()
+        except FileNotFoundError:
+            existing_content = ""
 
-        with open("movies.m3u", "a", encoding="utf-8") as file:  # Append mode to add new movies
-            file.write(m3u_content)
+        # Write new content (new movie first, then existing content)
+        with open("movies.m3u", "w", encoding="utf-8") as file:
+            file.write("#EXTM3U\n")  # Ensure #EXTM3U stays at the top
+            file.write(new_entry)
+            file.write(existing_content.replace("#EXTM3U\n", "", 1))  # Remove duplicate #EXTM3U
 
-        print(f"✅ {movie_details['title']} added to movies.m3u!")
+        print(f"✅ {movie_details['title']} added to the TOP of movies.m3u!")
     else:
         print(f"❌ Movie '{movie_name}' not found on TMDb.")
 
-# Example usage: Just input the movie name and M3U link
-movie_name = input("Enter movie name: ")
-m3u_link = input("Enter M3U link: ")
+# Loop to add multiple movies
+while True:
+    movie_name = input("Enter movie name (or 'exit' to stop): ")
+    if movie_name.lower() == "exit":
+        break
+    m3u_link = input("Enter M3U link: ")
+    add_movie_to_top(movie_name, m3u_link)
 
-generate_m3u(movie_name, m3u_link)
+print("🎬 All movies have been added successfully!")
