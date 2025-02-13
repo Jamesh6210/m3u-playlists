@@ -27,11 +27,11 @@
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="SkyCinemaAnimationHD.uk" site_id="2141">Sky Animation HD</channel>
 <!-- drama -->
   <channel site="mytelly.co.uk" lang="en" xmltv_id="SkyCinemaFamily.uk" site_id="1323/sky-cinema-family">Sky Cinema Family</channel>
-<!-- greats
-hits -->
+  <channel site="sky.com" lang="en" xmltv_id="SkyCinemaGreatsHD.uk" site_id="4015">Favourites HD</channel>
+  <channel site="player.ee.co.uk" lang="en" xmltv_id="SkyCinemaHits.uk" site_id="http://bds.tv/services/BT_756489_1814_SD">Sky Cinema Hits</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="SkyCinemaPremiereHD.uk" site_id="1510">Sky Premiere HD</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="SkyCinemaSciFiHorrorHD.uk" site_id="1517">Sky SciFi &amp; Hor HD</channel>
-<!-- select -->
+  <channel site="sky.com" lang="en" xmltv_id="SkyCinemaSelect.uk" site_id="4020">SkyBestOf24HD</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="SkyCinemaThrillerHD.uk" site_id="1515">Sky Thriller HD</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="SkyComedyHD.uk" site_id="2119">Sky Comedy HD</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="SkyCrimeHD.uk" site_id="2083">Sky Crime HD</channel>
@@ -41,28 +41,23 @@ hits -->
 
 <!-- Sports -->
   <channel site="tvguide.com" lang="en" xmltv_id="ACCNetwork.us" site_id="9200017734">ACC Network</channel>
-
+  <channel site="tvpassport.com" lang="en" xmltv_id="Altitude.Sports.-.Denver.us" site_id="altitude-sports--denver-hd/7542">Altitude Sports - Denver HD</channel>
 
 
   <channel site="tvguide.com" lang="en" xmltv_id="BigTenNetwork.us" site_id="9200004533">Big Ten Network</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="CBSSportsNetworkUSA.us" site_id="9233013235">CBS Sports Network</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="ESPN.us" site_id="9200006937">ESPN</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="ESPN2.us" site_id="9200012351">ESPN2</channel>
-
-  <channel site="tvguide.com" lang="en" xmltv_id="ESPNews.us" site_id="9200006950">ESPN News</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ESPN.Deportes.us" site_id="espn-deportes/2108">ESPN Deportes</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ESPNNews.us" site_id="espn-news/1527">ESPN News</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="ESPNU.us" site_id="9233011350">ESPNU</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="Eurosport1.uk" site_id="2084">Eurosport 1HD</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="Eurosport2.uk" site_id="2085">Eurosport 2HD</channel>
 
 
-
+  <channel site="tvpassport.com" lang="en" xmltv_id="FOX.Soccer.Plus.HD.us" site_id="fox-soccer-plus-hd/11551">FOX Soccer Plus HD</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="FoxSports1.us" site_id="9233008440">FOX Sports 1</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="FoxSports2.us" site_id="9200009884">FOX Sports 2</channel>
-
-
-
-
-
 
 
 
@@ -70,12 +65,17 @@ hits -->
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="LFCTV.uk" site_id="1816">Liverpool FC TV</channel>
 
   <channel site="tvguide.com" lang="en" xmltv_id="MLBNetwork.us" site_id="9200009223">MLB Network</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="MSG.(Madison.Square.Gardens).us" site_id="msg-madison-square-gardens-hd/4695">MSG (Madison Square Gardens) HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NBA.TV.USA.us" site_id="nba-tv-usa-hd/5645">NBA TV USA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NBC.Sports.Bay.Area.us" site_id="nbc-sports-bay-areacalifornia-plus-2-hd/32401">NBC Sports Bay Area/California Plus 2 HD</channel>
+
   <channel site="tvguide.com" lang="en" xmltv_id="NFLNetwork.us" site_id="9200004330">NFL Network</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="NHLNetwork.us" site_id="9233009455">NHL Network</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="RacingTV.uk" site_id="330">Racing TV</channel>
 
-
+  <channel site="sky.com" lang="en" xmltv_id="SkySportsArenaHD.uk" site_id="3940">SkySp+ HD</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="SkySportsCricketHD.uk" site_id="320">Sky Sports Cricket</channel>
+  <channel site="sky.com" lang="en" xmltv_id="SkySportsF1HD.uk" site_id="3835">SkySp DartsHD</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="SkySportsFootballHD.uk" site_id="1923">Sky Sports Football</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="SkySportsGolfHD.uk" site_id="322">Sky Sports Golf</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="SkySportsMainEventHD.uk" site_id="319">Sky Sports Main Event</channel>
@@ -92,6 +92,16 @@ hits -->
   <channel site="sky.co.nz" lang="en" xmltv_id="SkySport8.nz" site_id="58">SKY Sport 8</channel>
   <channel site="sky.co.nz" lang="en" xmltv_id="SkySport9.nz" site_id="59">SKY Sport 9</channel>
   <channel site="sky.co.nz" lang="en" xmltv_id="SkySportSelect.nz" site_id="50">SKY Sport Select</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Spectrum.Sportsnet.Lakers.us" site_id="spectrum-sportsnet-hd/11291">Spectrum SportsNet HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Sportsnet.360.ca" site_id="capital-networks-sportsnet-360/11287">Capital Networks: Sportsnet 360</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Sportsnet.(East).-.Satellite/Digital.ca" site_id="sportsnet-east-hd/6043">Sportsnet (East) HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="SportsNetNewYork.us" site_id="sny-sportsnet-new-york-hd/4713">SNY: SportsNet New York HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Sportsnet.One.ca" site_id="sportsnet-one-hd/8359">Sportsnet One HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Sportsnet.(Ontario).ca" site_id="sportsnet-ontario--satellitedigital/331">Sportsnet (Ontario) - Satellite/Digital</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="SportsNet.Pittsburgh.us" site_id="sportsnet-pittsburgh-hd/4519">SportsNet Pittsburgh HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Sportsnet.(West).-.Satellite/Digital.ca" site_id="sportsnet-west--satellitedigital-hd/16164">Sportsnet (West) - Satellite/Digital HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Sportsnet.World.ca" site_id="sportsnet-world-hd/8431">Sportsnet World HD</channel>
+
 
   <channel site="tvguide.com" lang="en" xmltv_id="TennisChannel.us" site_id="9200017917">The Tennis</channel>
 
@@ -100,12 +110,19 @@ hits -->
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="TNTSports2HD.uk" site_id="1745">TNT Sports 2 HD</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="TNTSports3HD.uk" site_id="1837">TNT Sports 3 HD</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="TNTSports4HD.uk" site_id="1405">TNT Sports 4 HD</channel>
-
+  <channel site="tvpassport.com" lang="en" xmltv_id="TSN1.ca" site_id="tsn1-hd/2819">TSN1 HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="TSN2.ca" site_id="tsn2-hd/5920">TSN2 HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="TSN3.ca" site_id="tsn3-hd/13768">TSN3 HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="TSN4.ca" site_id="tsn4-hd/13769">TSN4 HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="TSN5.ca" site_id="tsn5-hd/13770">TSN5 HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="TUDN.us" site_id="tudn-hd/11146">TUDN HD</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="ViaplaySports1.uk" site_id="1761">Premier Sports 1</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="ViaplaySports2.uk" site_id="1961">Premier Sports 2</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Willow.Cricket.HDTV.(WILLOWHD).us" site_id="willow-cricket-hd/6444">Willow Cricket HD</channel>
 
-
-
+  <channel site="tvpassport.com" lang="en" xmltv_id="YES.Network.us" site_id="yes-network-hd/4696">YES Network HD</channel>
+<!-- USA -->
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="ae-on-demand/4663">A&amp;E on Demand</channel>
 
 
 </channels>
