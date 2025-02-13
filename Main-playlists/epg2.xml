@@ -122,7 +122,26 @@
 
   <channel site="tvpassport.com" lang="en" xmltv_id="YES.Network.us" site_id="yes-network-hd/4696">YES Network HD</channel>
 <!-- USA -->
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="ae-on-demand/4663">A&amp;E on Demand</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="A.and.E.US.-.Eastern.Feed.us" site_id="ae-on-demand/4663">A&amp;E on Demand</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ABC.(WFAA).Dallas,.TX.us" site_id="abc-wfaa-dallas-tx-hd/5417">ABC (WFAA) Dallas, TX HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ABC.(WABC).New.York,.NY.us" site_id="abc-wsyr-syracuse-ny-hd/4789">ABC (WSYR) Syracuse, NY HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="AMC.-.Eastern.Feed.us" site_id="amc-on-demand/9311">AMC On Demand</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Animal.Planet.US.-.East.us" site_id="animal-planet-us-hd--east/4537">Animal Planet US HD - East</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="AXS.TV.USA.HD.us" site_id="axs-tv-usa-hd/20067">AXS TV USA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="BBC.America.-.East.us" site_id="bbc-america-ondemand/6844">BBC America OnDemand</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="BET.-.Eastern.Feed.us" site_id="shoxbet-hd-on-demand/4661">SHOXBET HD on demand</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Boomerang.us" site_id="boomerang-hd/16413">Boomerang HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Bravo.USA.-.Eastern.Feed.us" site_id="bravo-usa-hd--eastern-feed/6120">Bravo USA HD - Eastern Feed</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="C-SPAN.us" site_id="c-span-hd/8832">C-SPAN HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Cartoon.Network.USA.-.Eastern.Feed.us" site_id="cartoon-network-usa-sap/32184">Cartoon Network USA (SAP)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CBS.(WWJ).Detroit,.MI.us" site_id="cbs-wwj-detroit-mi-hd/2812">CBS (WWJ) Detroit, MI HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CBS.(WCBS).New.York,.NY.us" site_id="cbs-wbng-binghamton-ny-hd/6568">CBS (WBNG) Binghamton, NY HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Cinemax.-.Eastern.Feed.us" site_id="cinemax-on-demand-hd/8609">Cinemax on Demand HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CLEO.TV.us" site_id="cleo-tv-hd/33139">CLEO TV HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CMT.US.-.Eastern.Feed.us" site_id="cmt-us-on-demand/7948">CMT US On Demand</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CNBC.USA.us" site_id="cnbc-usa-hd/6119">CNBC USA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CNN.us" site_id="cnn-hd/4724">CNN HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Comedy.Central.(US).-.Eastern.Feed.us" site_id="comedy-central-on-demand/4781">Comedy Central on Demand</channel>
 
 
 </channels>
