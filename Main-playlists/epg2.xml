@@ -25,7 +25,7 @@
   <channel site="mytelly.co.uk" lang="en" xmltv_id="SkyAtlantic.uk" site_id="1628/sky-atlantic">Sky Atlantic</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="SkyCinemaActionHD.uk" site_id="1513">Sky Action HD</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="SkyCinemaAnimationHD.uk" site_id="2141">Sky Animation HD</channel>
-<!-- drama -->
+  <!-- drama -->
   <channel site="mytelly.co.uk" lang="en" xmltv_id="SkyCinemaFamily.uk" site_id="1323/sky-cinema-family">Sky Cinema Family</channel>
   <channel site="sky.com" lang="en" xmltv_id="SkyCinemaGreatsHD.uk" site_id="4015">Favourites HD</channel>
   <channel site="player.ee.co.uk" lang="en" xmltv_id="SkyCinemaHits.uk" site_id="http://bds.tv/services/BT_756489_1814_SD">Sky Cinema Hits</channel>
@@ -40,39 +40,29 @@
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="SkyWitnessHD.uk" site_id="1406">Sky Witness HD</channel>
 
 <!-- Sports -->
-  <channel site="tvguide.com" lang="en" xmltv_id="ACCNetwork.us" site_id="9200017734">ACC Network</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ACCNetwork.us" site_id="acc-network-hd/33965">ACC Network HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Altitude.Sports.-.Denver.us" site_id="altitude-sports--denver-hd/7542">Altitude Sports - Denver HD</channel>
-
-
-  <channel site="tvguide.com" lang="en" xmltv_id="BigTenNetwork.us" site_id="9200004533">Big Ten Network</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="CBSSportsNetworkUSA.us" site_id="9233013235">CBS Sports Network</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="ESPN.us" site_id="9200006937">ESPN</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="ESPN2.us" site_id="9200012351">ESPN2</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="BigTenNetwork.us" site_id="big-ten-network-hd/4500">Big Ten Network HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CBSSportsNetworkUSA.us" site_id="cbs-sports-network-usa-hd/6985">CBS Sports Network USA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ESPN.us" site_id="espn-hd/3036">ESPN HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ESPN2.us" site_id="espn2-hd/3379">ESPN2 HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ESPN.Deportes.us" site_id="espn-deportes/2108">ESPN Deportes</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ESPNNews.us" site_id="espn-news/1527">ESPN News</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="ESPNU.us" site_id="9233011350">ESPNU</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ESPNU.us" site_id="espn-u-hd/6245">ESPN U HD</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="Eurosport1.uk" site_id="2084">Eurosport 1HD</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="Eurosport2.uk" site_id="2085">Eurosport 2HD</channel>
-
-
   <channel site="tvpassport.com" lang="en" xmltv_id="FOX.Soccer.Plus.HD.us" site_id="fox-soccer-plus-hd/11551">FOX Soccer Plus HD</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports1.us" site_id="9233008440">FOX Sports 1</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports2.us" site_id="9200009884">FOX Sports 2</channel>
-
-
-
-  <channel site="tvguide.com" lang="en" xmltv_id="GolfChannel.us" site_id="9233005443">Golf</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FoxSports1.us" site_id="fox-sports-1-hd/11137">Fox Sports 1 HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FoxSports2.us" site_id="fox-sports-2-hd/10263">Fox Sports 2 HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="GolfChannel.us" site_id="golf-channel-usa-hd/6039">Golf Channel USA HD</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="LFCTV.uk" site_id="1816">Liverpool FC TV</channel>
-
-  <channel site="tvguide.com" lang="en" xmltv_id="MLBNetwork.us" site_id="9200009223">MLB Network</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="MLBNetwork.us" site_id="mlb-network-hd/6218">MLB Network HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="MSG.(Madison.Square.Gardens).us" site_id="msg-madison-square-gardens-hd/4695">MSG (Madison Square Gardens) HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NBA.TV.USA.us" site_id="nba-tv-usa-hd/5645">NBA TV USA HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="NBC.Sports.Bay.Area.us" site_id="nbc-sports-bay-areacalifornia-plus-2-hd/32401">NBC Sports Bay Area/California Plus 2 HD</channel>
-
-  <channel site="tvguide.com" lang="en" xmltv_id="NFLNetwork.us" site_id="9200004330">NFL Network</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="NHLNetwork.us" site_id="9233009455">NHL Network</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NFLNetwork.us" site_id="nfl-network-hd/3601">NFL Network HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NHLNetwork.us" site_id="nhl-network-usa-hd/14157">NHL Network USA HD</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="RacingTV.uk" site_id="330">Racing TV</channel>
-
   <channel site="sky.com" lang="en" xmltv_id="SkySportsArenaHD.uk" site_id="3940">SkySp+ HD</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="SkySportsCricketHD.uk" site_id="320">Sky Sports Cricket</channel>
   <channel site="sky.com" lang="en" xmltv_id="SkySportsF1HD.uk" site_id="3835">SkySp DartsHD</channel>
@@ -100,11 +90,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="SportsNet.Pittsburgh.us" site_id="sportsnet-pittsburgh-hd/4519">SportsNet Pittsburgh HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Sportsnet.(West).-.Satellite/Digital.ca" site_id="sportsnet-west--satellitedigital-hd/16164">Sportsnet (West) - Satellite/Digital HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Sportsnet.World.ca" site_id="sportsnet-world-hd/8431">Sportsnet World HD</channel>
-
-
-  <channel site="tvguide.com" lang="en" xmltv_id="TennisChannel.us" site_id="9200017917">The Tennis</channel>
-
-
+  <channel site="tvpassport.com" lang="en" xmltv_id="TennisChannel.us" site_id="the-tennis-channel-hd/7051">The Tennis Channel HD</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="TNTSports1HD.uk" site_id="1744">TNT Sports 1 HD</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="TNTSports2HD.uk" site_id="1745">TNT Sports 2 HD</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="TNTSports3HD.uk" site_id="1837">TNT Sports 3 HD</channel>
@@ -141,6 +127,29 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="CNBC.USA.us" site_id="cnbc-usa-hd/6119">CNBC USA HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="CNN.us" site_id="cnn-hd/4724">CNN HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Comedy.Central.(US).-.Eastern.Feed.us" site_id="comedy-central-hd--eastern-feed/6957">Comedy Central HD - Eastern Feed</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Comet.us" site_id="comet-tv/16811">Comet TV</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="The.Cooking.Channel.us" site_id="the-cooking-channel-hd/8113">The Cooking Channel HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="COZITV.us" site_id="cozi-tv-k27ks-d2-globemiami-az/34518">Cozi TV (K27KS-D2) Globe/Miami, AZ</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Crime.and.Investigation.Network.USA.HD.us" site_id="crime--investigation-canada-hd/13784">Crime + Investigation Canada HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CW.(WUCW).St..Paul,.MN.us" site_id="cw-wucw-st-paul-mn-hd/4777">CW (WUCW) St. Paul, MN HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Destination.America.us" site_id="destination-america-hd/5889">Destination America HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Discovery.Channel.(US).-.Eastern.Feed.us" site_id="discovery-channel-us--eastern-feed/649">Discovery Channel (US) - Eastern Feed</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Discovery.Family.Channel.us" site_id="discovery-family-channel-hd/8518">Discovery Family Channel HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Discovery.Life.Channel.us" site_id="discovery-life-channel-hd/16423">Discovery Life Channel HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Disney.-.Eastern.Feed.us" site_id="disney--eastern-feed/595">Disney - Eastern Feed</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Disney.Junior.USA.-.East.us" site_id="disney-junior-usa--east/6867">Disney Junior USA - East</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Disney.XD.USA.-.Eastern.Feed.us" site_id="disney-xd-usa--eastern-feed/1053">Disney XD USA - Eastern Feed</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="E!.Entertainment.USA.-.Eastern.Feed.us" site_id="e-entertainment-usa--eastern-feed/617">E! Entertainment USA - Eastern Feed</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FOX.(WSVN).Miami,.FL.us" site_id="fox-wsvn-miami-fl-hd/7510">FOX (WSVN) Miami, FL HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Fox.Business.us" site_id="fox-business-hd/5600">Fox Business HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Fox.News.us" site_id="fox-news-hd/6207">Fox News HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Fox.Weather.(WDCA4).Washington,.DC.us" site_id="fox-weather-wdca4-washington-dc/31858">Fox Weather (WDCA4) Washington, DC</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FOX.(WNYW).New.York,.NY.us" site_id="fox-wnyw-new-york-ny-hd/4557">FOX (WNYW) New York, NY HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Freeform.-.East.Feed.us" site_id="freeform--east-feed/1011">Freeform - East Feed</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FX.Networks.East.Coast.us" site_id="fx-networks-east-coast-hd/6111">FX Networks East Coast HD</channel>
+
+
+
 
 
 </channels>
