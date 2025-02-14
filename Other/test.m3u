@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/kyeqWdyUXW608qlYkRqosgbbJyK.jpg" group-title="Movies", Avatar
-https://nepu.to/public/m3u8/3c80caecbc.m3u8|Referer=https://nepu.to/movie/small-things-like-these-2024-142031|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0
+# Wolf Man
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg" group-title="Movies", Wolf Man
+https://sto47-eu.zcdn.stream/b637fa9e543265963e5d65b4d1ef1855/2025-02-05/1080.m3u8?token=95304d8645ec88e5df6e0cace29392b4&client=ab00f01ffa4d89888259e8bbaf38345d&expires=1739596999&type=edge&asn=15502&node=OHoU-k5Qfv5dpzmH7G55XfwrxfdkacTFilVJMZRbBEOdPcgbC6nNuOFntK_IEiayQFPLKcnuQ_rwSnTE44pctQ
