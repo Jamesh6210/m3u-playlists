@@ -3,9 +3,6 @@ import requests
 # TMDb API Key (Get yours from https://developer.themoviedb.org/)
 TMDB_API_KEY = "0e8066a21ffbca4c9ab24e0dd7fd71ab"
 
-# Movies111 Base URL
-MOVIES111_URL = "https://111movies.com/movie/"
-
 # Function to fetch movie details from TMDb
 def get_movie_details(movie_name):
     """Fetch movie details from TMDb"""
@@ -17,7 +14,6 @@ def get_movie_details(movie_name):
         if results:
             movie = results[0]  # Take the first result
             return {
-                "id": movie["id"],  # TMDb Movie ID
                 "title": movie["title"],
                 "year": movie["release_date"].split("-")[0] if "release_date" in movie else "N/A",
                 "rating": round(movie.get("vote_average", 0), 1),
@@ -25,18 +21,14 @@ def get_movie_details(movie_name):
             }
     return None  # Return None if movie not found
 
-# Function to insert a new movie at the top of the M3U file with Movies111 details
+# Function to insert a new movie at the top of the M3U file while keeping IMDb details
 def add_movie_to_top(movie_name, m3u_link):
-    """Adds a new movie at the top of the M3U file with Movies111 details link"""
+    """Adds a new movie at the top of the M3U file with full IMDb details"""
     movie_details = get_movie_details(movie_name)
 
     if movie_details:
-        # Generate the Movies111 details link
-        details_url = f"{MOVIES111_URL}{movie_details['id']}"
-
-        # Create the M3U entry
         new_entry = f"# {movie_details['title']} ({movie_details['year']})\n"
-        new_entry += f'#EXTINF:-1 tvg-id="{details_url}" tvg-logo="{movie_details["poster_url"]}" group-title="Movies", {movie_details["title"]} ({movie_details["year"]}) - IMDb {movie_details["rating"]}\n'
+        new_entry += f'#EXTINF:-1 tvg-logo="{movie_details["poster_url"]}" group-title="Movies", {movie_details["title"]} ({movie_details["year"]}) - IMDb {movie_details["rating"]}\n'
         new_entry += f"{m3u_link}\n\n"  # Double newline for spacing
 
         # Read existing content
