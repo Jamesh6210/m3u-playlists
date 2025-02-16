@@ -33,18 +33,18 @@ def add_movie_to_top(movie_name, m3u_link):
 
         # Read existing content
         try:
-            with open("movies.m3u", "r", encoding="utf-8") as file:
+            with open("Movies-playlist.m3u", "r", encoding="utf-8") as file:
                 existing_content = file.read()
         except FileNotFoundError:
             existing_content = ""
 
         # Write new content (new movie first, then existing content)
-        with open("movies.m3u", "w", encoding="utf-8") as file:
+        with open("Movies-playlist.m3u", "w", encoding="utf-8") as file:
             file.write("#EXTM3U\n")  # Ensure #EXTM3U stays at the top
             file.write(new_entry)
             file.write(existing_content.replace("#EXTM3U\n", "", 1))  # Remove duplicate #EXTM3U
 
-        print(f"✅ {movie_details['title']} added to the TOP of movies.m3u!")
+        print(f"✅ {movie_details['title']} added to the TOP of Movies-playlist.m3u!")
     else:
         print(f"❌ Movie '{movie_name}' not found on TMDb.")
 
