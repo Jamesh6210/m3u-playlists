@@ -1,4 +1,8 @@
 #EXTM3U
+# A Minecraft Movie (2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg" group-title="Movies", A Minecraft Movie (2025) - IMDb 6.1
+https://hls14-eu.zcdn.stream/b7f4bff48acf8b0953526d981f50b427/2025-04-10/1080.m3u8?token=99b47b1069e359f11246a4ec44817929&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1744923095&type=edge&asn=15502&node=YmfJzeaENgxSodzgTdBP87e2OKOD5MbYixDF_6HJr9V9HIN40YqlV0EDBvjg2LSQk7ZnTpOECQv5oGA1hGddNA
+
 # Raiders of the Lost Ark (1981)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg" group-title="Movies", Raiders of the Lost Ark (1981) - IMDb 7.9
 https://jett4.routemachine.site/v3-hls-playback/2fa20a692d11af08f48f7b72c7e637803b5273126e9d0cbde68118d19ca3ed8e1d7091532c6820d90fc28914cd2fbd40846378b219f5c7786f5737362824ec6956d6fe876a6df4ec2dead898d8d6a0cb901ffaf324436a5f1dcf3f7185c39b689365516fa1e7395c32f9c32cddcbf332d00f0c1384848e224b04c04dc773f01be6a81e22cfe55bd739ef1e386cf043ac8b349320bad34320a48fdf8dd88ed8666819fc2edc11fc72dba896a9702e0b8eb77bca836f6ae95e8bb74d6ad1c7bb40/1080/index.m3u8
