@@ -187,6 +187,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="ReelzChannel.us" site_id="reelzchannel-hd/8836">ReelzChannel HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Science.us" site_id="science-hd/5828">Science HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="SEC.Network.us" site_id="sec-network-hd/13712">SEC Network HD</channel>
+    <channel site="tvpassport.com" lang="en" xmltv_id="ParamountpluswithShowtime.us" site_id="paramount-with-showtime--eastern/3034">Paramount+ with Showtime - Eastern</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Starz.-.Eastern.us" site_id="starz--eastern/583">Starz - Eastern</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Syfy.-.Eastern.Feed.us" site_id="syfy-hd--eastern-feed/5643">Syfy HD - Eastern Feed</channel>
 
