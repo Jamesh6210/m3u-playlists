@@ -18,8 +18,8 @@
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="ITV4HD.uk" site_id="1599">ITV4 HD</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="MTVHD.uk" site_id="1732">MTV HD</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="MUTV.uk" site_id="327">MUTV</channel>
-  <channel site="mytelly.co.uk" lang="en" xmltv_id="RTE1.ie" site_id="1856/rte-one-hd">RTE One HD</channel>
-  <channel site="mytelly.co.uk" lang="en" xmltv_id="RTE2.ie" site_id="82/rte2">RTE2</channel>
+  <channel site="tvireland.ie" lang="en" xmltv_id="RTE1.ie" site_id="1856/rte-one-hd">RTE One HD</channel>
+  <channel site="tvireland.ie" lang="en" xmltv_id="RTE2.ie" site_id="1648/rte2-hd">RTE2 HD</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="S4CHD.uk" site_id="2015">S4C HD</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="SkyArtsHD.uk" site_id="1564">Sky Arts HD</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="SkyAtlantic.uk" site_id="1628/sky-atlantic">Sky Atlantic</channel>
