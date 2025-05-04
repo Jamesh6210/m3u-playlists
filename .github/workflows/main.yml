@@ -28,9 +28,12 @@ jobs:
       working-directory: epg
 
     - name: Commit and Push Changes
+      env:
+        TOKEN: ${{ secrets.GH_PAT }}
       run: |
         git config user.name "Jamesh6210"
         git config user.email "adidassport2016@gmail.com"
         git add -A
         git commit -m "Auto-updated guide.xml" || echo "No changes to commit"
-        git push
+        git remote set-url origin https://x-access-token:${TOKEN}@github.com/Jamesh6210/m3u-playlists.git
+        git push origin main
