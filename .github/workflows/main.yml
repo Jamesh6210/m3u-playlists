@@ -13,7 +13,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Set up Node.JS
         uses: actions/setup-node@v4
@@ -33,7 +33,7 @@ jobs:
         run: |
           git config --global user.name "Jamesh6210"
           git config --global user.email "adidassport2016@gmail.com"
-          git add m3u
-          git add xml
+          git add ppv-m3u/m3u
+          git add ppv-m3u/xml
           git commit -m "Automatically update M3U playlists For PPV"
           git push
