@@ -1,4 +1,14 @@
 tvg#EXTM3U url-tvg="https://raw.githubusercontent.com/Jamesh6210/m3u-playlists/refs/heads/main/epg/guide.xml"
+#EXTINF:-1 group-title="UK " tvg-id="BBCNewsHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" tvg-name="BBC News",BBC News Channel HD
+https://dokko1new.newkso.ru/dokko1/premium349/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://kisskissplay.cfd
+#EXTINF:-1 group-title="UK " tvg-id="BBCOneLondonHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" tvg-name="BBC One",BBC One
+https://ddy6new.newkso.ru/ddy6/premium356/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://kisskissplay.cfd
+#EXTINF:-1 group-title="UK " tvg-id="BBCTwoHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png" tvg-name="BBC Two",BBC Two
+https://dokko1new.newkso.ru/dokko1/premium357/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://kisskissplay.cfd
+#EXTINF:-1 group-title="UK " tvg-id="BBCThreeHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-three-uk.png" tvg-name="BBC Three",BBC Three
+https://ddy6new.newkso.ru/ddy6/premium358/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://kisskissplay.cfd
+#EXTINF:-1 group-title="UK " tvg-id="BBCFourHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-four-uk.png" tvg-name="BBC Four",BBC Four
+https://dokko1new.newkso.ru/dokko1/premium359/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://kisskissplay.cfd
 #EXTINF:-1 group-title="SPORTS " tvg-id="TNTSports1HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" tvg-name="TNT Sports 1",TNT Sports 1
 https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://webxzplay.cfd
 #EXTINF:-1 group-title="SPORTS " tvg-id="TNTSports2HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" tvg-name="TNT Sports 2",TNT Sports 2
@@ -65,16 +75,6 @@ https://ddh2new.newkso.ru/ddh2/premium304/mono.m3u8|Referer=https://kisskissplay
 https://ddh2new.newkso.ru/ddh2/premium742/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://kisskissplay.cfd
 #EXTINF:-1 group-title="USA " tvg-id="BBC.America.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bbc-america-us.png" tvg-name="BBC America (BBCA)",BBC America (BBCA)
 https://zekonew.newkso.ru/zeko/premium305/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://kisskissplay.cfd
-#EXTINF:-1 group-title="UK " tvg-id="BBCFourHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-four-uk.png" tvg-name="BBC Four",BBC Four
-https://dokko1new.newkso.ru/dokko1/premium359/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://kisskissplay.cfd
-#EXTINF:-1 group-title="UK " tvg-id="BBCNewsHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" tvg-name="BBC News",BBC News Channel HD
-https://dokko1new.newkso.ru/dokko1/premium349/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://kisskissplay.cfd
-#EXTINF:-1 group-title="UK " tvg-id="BBCOneLondonHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" tvg-name="BBC One",BBC One
-https://ddy6new.newkso.ru/ddy6/premium356/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://kisskissplay.cfd
-#EXTINF:-1 group-title="UK " tvg-id="BBCThreeHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-three-uk.png" tvg-name="BBC Three",BBC Three
-https://ddy6new.newkso.ru/ddy6/premium358/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://kisskissplay.cfd
-#EXTINF:-1 group-title="UK " tvg-id="BBCTwoHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png" tvg-name="BBC Two",BBC Two
-https://dokko1new.newkso.ru/dokko1/premium357/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://kisskissplay.cfd
 #EXTINF:-1 group-title="USA " tvg-id="BET.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png" tvg-name="BET",BET
 https://zekonew.newkso.ru/zeko/premium306/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://kisskissplay.cfd
 #EXTINF:-1 group-title="SPORTS " tvg-id="BigTenNetwork.us" tvg-logo="https://btn.com/wp-content/uploads/2022/01/share-image.png" tvg-name="BIG TEN Network (BTN)",BIG TEN Network (BTN)
