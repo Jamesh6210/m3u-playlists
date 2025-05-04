@@ -1,0 +1,36 @@
+name: Grab EPG and Push
+
+on:
+  schedule:
+    - cron: "0 4 * * *" # Every day at 4 AM UTC
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repo
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+
+    - name: Install dependencies
+      run: npm install
+      working-directory: epg
+
+    - name: Run EPG Grab
+      run: |
+        npm run grab --- --channels=Main-playlists/epg.xml --maxConnections=10 --days=3
+      working-directory: epg
+
+    - name: Commit and Push Changes
+      run: |
+        git config user.name "github-actions"
+        git config user.email "github-actions@github.com"
+        git add epg/guide.xml
+        git commit -m "Auto-updated guide.xml"
+        git push
