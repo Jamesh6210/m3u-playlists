@@ -31,6 +31,6 @@ jobs:
       run: |
         git config user.name "Jamesh6210"
         git config user.email "adidassport2016@gmail.com"
-        git add epg/guide.xml
-        git commit -m "Auto-updated guide.xml"
+        git add -A
+        git commit -m "Auto-updated guide.xml" || echo "No changes to commit"
         git push
