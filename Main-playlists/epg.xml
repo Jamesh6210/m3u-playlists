@@ -26,7 +26,7 @@
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="SkyCinemaActionHD.uk" site_id="1513">Sky Action HD</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="SkyCinemaAnimationHD.uk" site_id="2141">Sky Animation HD</channel>
   <!-- drama -->
-  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkyCinemaFamily.uk" site_id="1323/sky-cinema-family">Sky Cinema Family</channel>
+  <channel site="player.ee.co.uk" lang="en" xmltv_id="SkyCinemaFamily.uk" site_id="http://bds.tv/services/BT_758028_1808_HD">Sky Cinema Family HD</channel>
   <channel site="sky.com" lang="en" xmltv_id="SkyCinemaGreatsHD.uk" site_id="4015">Favourites HD</channel>
   <channel site="player.ee.co.uk" lang="en" xmltv_id="SkyCinemaHits.uk" site_id="http://bds.tv/services/BT_756489_1814_SD">Sky Cinema Hits</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="SkyCinemaPremiereHD.uk" site_id="1510">Sky Premiere HD</channel>
@@ -185,6 +185,10 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="Oxygen.-.Eastern.Feed.us" site_id="investigation-discovery-canada-hd/8458">Oxygen True Crime Canada HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Paramount.Network.USA.-.Eastern.Feed.us" site_id="paramount-network-usa--eastern-feed/1030">Paramount Network USA - Eastern Feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ReelzChannel.us" site_id="reelzchannel-hd/8836">ReelzChannel HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Science.us" site_id="science-hd/5828">Science HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="SEC.Network.us" site_id="sec-network-hd/13712">SEC Network HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Starz.-.Eastern.us" site_id="starz--eastern/583">Starz - Eastern</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Syfy.-.Eastern.Feed.us" site_id="syfy-hd--eastern-feed/5643">Syfy HD - Eastern Feed</channel>
 
 
 
