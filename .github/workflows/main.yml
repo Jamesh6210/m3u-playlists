@@ -27,7 +27,7 @@ jobs:
 
     - name: Run EPG Grab
       run: |
-        npm run grab --- --channels=Main-playlists/epg.xml --maxConnections=10 --days=3
+        npm run grab --- --channels=../Main-playlists/epg.xml --maxConnections=10 --days=3
       working-directory: epg
 
     - name: Check for guide.xml
