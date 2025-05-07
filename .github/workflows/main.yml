@@ -30,6 +30,13 @@ jobs:
         npm run grab --- --channels=Main-playlists/epg.xml --maxConnections=10 --days=3
       working-directory: epg
 
+    - name: Check for guide.xml
+      run: |
+        echo "Checking epg/ directory..."
+        ls -la epg
+        cat epg/guide.xml || echo "No guide.xml found"
+
+
     - name: Commit and Push Changes
       env:
         TOKEN: ${{ secrets.GH_PAT }}
