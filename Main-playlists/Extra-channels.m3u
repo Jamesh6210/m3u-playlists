@@ -1,6 +1,9 @@
 #EXTM3U
 tvg#EXTM3U url-tvg="https://raw.githubusercontent.com/Jamesh6210/m3u-playlists/refs/heads/main/epg/guide.xml"
 
+#EXTINF:-1 tvg-id="M+.Vamos.es" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/iptv-scraper/refs/heads/main/logos/vamos.png" group-title="SPAIN",#Vamos Spain
+https://hipaf6u2j3pwygg.nice-flower.store/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yMyUTY5UzNyQzYjRTL3YjZ50yMkFGNtEjN1gTLxcDM2gTN1M2L.m3u8
+
 #EXTINF:-1 group-title="UK " tvg-id="BBCNewsHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" tvg-name="BBC News",BBC News Channel HD
 https://hipaf6u2j3pwygg.nice-flower.store/v4/variant/VE14U3Mt5yc05ybu9WbvEjdtM3ajFmc09COiFTMlVGOlR2YzUTLzgzN50SOmFGNtIWYwYWL4U2YhRmY3gzL.m3u8|Referer=https://vecloud.eu/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0|Origin=https://vecloud.eu
 
