@@ -281,7 +281,7 @@ http://159.100.22.120:7860/proxy?url=https://ddh2new.newkso.ru/ddh2/premium321/m
 http://159.100.22.120:7860/proxy?url=https://windnew.newkso.ru/wind/premium690/mono.m3u8
 
 #EXTINF:-1 group-title="USA " tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-family-us.png" tvg-name="HBO Family",HBO Family
-http://159.100.22.120:7860/proxy?url=https://windnew.newkso.ru/wind/premium691/mono.m3u8
+http://159.100.22.120:7860/proxy?url=https://nfsnew.newkso.ru/nfs/premium691/mono.m3u8
 
 #EXTINF:-1 group-title="USA " tvg-id="HBO.Signature.(HBO.3).-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png" tvg-name="HBO Signature",HBO Signature
 http://159.100.22.120:7860/proxy?url=https://windnew.newkso.ru/wind/premium693/mono.m3u8
