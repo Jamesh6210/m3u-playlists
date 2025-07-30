@@ -551,4 +551,4 @@ http://159.100.22.120:7860/proxy?url=https://zekonew.newkso.ru/zeko/premium598/m
 http://159.100.22.120:7860/proxy?url=https://zekonew.newkso.ru/zeko/premium763/mono.m3u8
 
 #EXTINF:-1 group-title="SPORTS " tvg-id="Live-Stream" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/yes-network-us.png" tvg-name="James-Live",James
-	http://159.100.22.120:8081/hls/mystreamkey123.m3u8
+http://159.100.22.120:8081/hls/mystreamkey123.m3u8
