@@ -91,10 +91,10 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="Sportsnet.(West).-.Satellite/Digital.ca" site_id="sportsnet-west--satellitedigital-hd/16164">Sportsnet (West) - Satellite/Digital HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="Sportsnet.World.ca" site_id="sportsnet-world-hd/8431">Sportsnet World HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TennisChannel.us" site_id="the-tennis-channel-hd/7051">The Tennis Channel HD</channel>
-  <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="TNTSports1HD.uk" site_id="1744">TNT Sports 1 HD</channel>
-  <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="TNTSports2HD.uk" site_id="1745">TNT Sports 2 HD</channel>
-  <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="TNTSports3HD.uk" site_id="1837">TNT Sports 3 HD</channel>
-  <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="TNTSports4HD.uk" site_id="1405">TNT Sports 4 HD</channel>
+  <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="TNTSport1.uk" site_id="1744">TNT Sports 1 HD</channel>
+  <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="TNTSport2.uk" site_id="1745">TNT Sports 2 HD</channel>
+  <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="TNTSport3.uk" site_id="1837">TNT Sports 3 HD</channel>
+  <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="TNTSport4.uk" site_id="1405">TNT Sports 4 HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TSN1.ca" site_id="tsn1-hd/2819">TSN1 HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TSN2.ca" site_id="tsn2-hd/5920">TSN2 HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="TSN3.ca" site_id="tsn3-hd/13768">TSN3 HD</channel>

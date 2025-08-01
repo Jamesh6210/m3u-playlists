@@ -16,16 +16,16 @@ http://159.100.22.120:7860/proxy?url=https://ddy6new.newkso.ru/ddy6/premium358/m
 #EXTINF:-1 group-title="UK " tvg-id="BBCFourHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-four-uk.png" tvg-name="BBC Four",BBC Four
 http://159.100.22.120:7860/proxy?url=https://dokko1new.newkso.ru/dokko1/premium359/mono.m3u8
 
-#EXTINF:-1 group-title="SPORTS " tvg-id="TNTSports1HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" tvg-name="TNT Sports 1",TNT Sports 1
+#EXTINF:-1 group-title="SPORTS " tvg-id="TNTSport1.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" tvg-name="TNT Sports 1",TNT Sports 1
 http://159.100.22.120:7860/proxy?url=https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8
 
-#EXTINF:-1 group-title="SPORTS " tvg-id="TNTSports2HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" tvg-name="TNT Sports 2",TNT Sports 2
+#EXTINF:-1 group-title="SPORTS " tvg-id="TNTSport2.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" tvg-name="TNT Sports 2",TNT Sports 2
 http://159.100.22.120:7860/proxy?url=https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8
 
-#EXTINF:-1 group-title="SPORTS " tvg-id="TNTSports3HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" tvg-name="TNT Sports 3",TNT Sports 3
+#EXTINF:-1 group-title="SPORTS " tvg-id="TNTSport3.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" tvg-name="TNT Sports 3",TNT Sports 3
 http://159.100.22.120:7860/proxy?url=https://nfsnew.newkso.ru/nfs/premium33/mono.m3u8
 
-#EXTINF:-1 group-title="SPORTS " tvg-id="TNTSports4HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" tvg-name="TNT Sports 4",TNT Sports 4
+#EXTINF:-1 group-title="SPORTS " tvg-id="TNTSport4.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" tvg-name="TNT Sports 4",TNT Sports 4
 http://159.100.22.120:7860/proxy?url=https://nfsnew.newkso.ru/nfs/premium34/mono.m3u8
 
 #EXTINF:-1 group-title="SPORTS " tvg-id="SkySp.ActionHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-action-uk.png" tvg-name="Sky Sports Action",Sky Sports Action
