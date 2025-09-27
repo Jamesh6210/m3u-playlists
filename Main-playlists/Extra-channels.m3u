@@ -2,7 +2,7 @@
 tvg#EXTM3U url-tvg="https://raw.githubusercontent.com/Jamesh6210/m3u-playlists/refs/heads/main/epg/guide.xml"
 
 #EXTINF:-1 group-title="UK " tvg-id="BBCNewsHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" tvg-name="BBC News",BBC News Channel HD
-http://159.100.22.120:7860/proxy?url=https://dokko1new.newkso.ru/dokko1/premium349/mono.m3u8
+https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhQUSsBW08kNElTLF0gJCQvLyhQUSsBOjgvX0hfIl8GABwyVzZaJDxaBj8L/index.m3u8
 
 #EXTINF:-1 group-title="UK " tvg-id="BBCOneLondonHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" tvg-name="BBC One",BBC One
 http://159.100.22.120:7860/proxy?url=https://ddy6new.newkso.ru/ddy6/premium356/mono.m3u8
