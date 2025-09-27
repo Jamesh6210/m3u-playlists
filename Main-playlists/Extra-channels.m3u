@@ -5,7 +5,7 @@ tvg#EXTM3U url-tvg="https://raw.githubusercontent.com/Jamesh6210/m3u-playlists/r
 https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhQUSsBW08kNElTLF0gJCQvLyhQUSsBOjgvX0hfIl8GABwyVzZaJDxaBj8L/index.m3u8
 
 #EXTINF:-1 group-title="UK " tvg-id="BBCOneLondonHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" tvg-name="BBC One",BBC One
-http://159.100.22.120:7860/proxy?url=https://ddy6new.newkso.ru/ddy6/premium356/mono.m3u8
+http://cf.shark-cdn.me/45b47cb14f/7e0a12959e/497001
 
 #EXTINF:-1 group-title="UK " tvg-id="BBCTwoHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png" tvg-name="BBC Two",BBC Two
 http://159.100.22.120:7860/proxy?url=https://dokko1new.newkso.ru/dokko1/premium357/mono.m3u8
